@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.1.0",
+		"json": 1
+	},
+	"project": {
+		"name": "Spin_up_393W",
+		"description": "",
+		"creationDate": "Mon Sep 05 2022",
+		"platform": "V5",
+		"language": "python",
+		"slot": 1,
+		"sdkVersion": "V5_1_0_1_14",
+		"python": {
+			"main": "src/left_on_roller_auton.py"
+		}
+	}
+}
